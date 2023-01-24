@@ -1,4 +1,5 @@
 CREATE DATABASE [Negocios]
+GO
 
 USE [Negocios]
 GO
