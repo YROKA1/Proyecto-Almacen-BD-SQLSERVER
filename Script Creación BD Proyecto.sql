@@ -1,7 +1,7 @@
-CREATE DATABASE [Negocios]
+CREATE DATABASE [Negocio]
 GO
 
-USE [Negocios]
+USE [Negocio]
 GO
 
 /****** Object:  Table [dbo].[Productos]    Script Date: 19/1/2023 20:12:26 ******/
